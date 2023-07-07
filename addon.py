@@ -5,7 +5,7 @@ from xbmc import log
 from xbmcgui import Dialog
 from xbmcswift2 import Plugin
 
-BASE=['https://www.glebul.com/']
+BASE=['https://www.seirsanduk.us/']
 
 
 header='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/59.0'
